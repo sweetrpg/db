@@ -1,0 +1,12 @@
+[submodule "mongodb-python"]
+	path = mongodb-python
+	url = git@github.com:sweetrpg/mongodb.py.git
+[submodule "mongodb-rust"]
+	path = mongodb-rust
+	url = git@github.com:sweetrpg/mongodb.rs.git
+[submodule "mongodb-swift"]
+	path = mongodb-swift
+	url = git@github.com:sweetrpg/mongodb.swift.git
+[submodule "mongodb-go"]
+	path = mongodb-go
+	url = git@github.com:sweetrpg/mongodb.go.git
