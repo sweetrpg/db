@@ -1,3 +1,3 @@
 # DB
 
-Meta-repo that contains all the db.* language-specific repos as submodules.
+Meta-repo that contains all the {type}-db.* language-specific repos as submodules.
