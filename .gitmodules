@@ -1,12 +1,12 @@
-[submodule "go"]
-	path = go
-	url = git@github.com:sweetrpg/db.go.git
-[submodule "rust"]
-	path = rust
-	url = git@github.com:sweetrpg/db.rs.git
-[submodule "python"]
-	path = python
-	url = git@github.com:sweetrpg/db.py.git
-[submodule "swift"]
-	path = swift
-	url = git@github.com:sweetrpg/db.swift.git
+[submodule "mongodb-go"]
+	path = mongodb-go
+	url = git@github.com:sweetrpg/mongodb.go.git
+[submodule "mongodb-rust"]
+	path = mongodb-rust
+	url = git@github.com:sweetrpg/mongodb.rs.git
+[submodule "mongodb-python"]
+	path = mongodb-python
+	url = git@github.com:sweetrpg/mongodb.py.git
+[submodule "mongodb-swift"]
+	path = mongodb-swift
+	url = git@github.com:sweetrpg/mongodb.swift.git
